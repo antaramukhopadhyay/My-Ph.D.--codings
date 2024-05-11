@@ -9,3 +9,9 @@ Representative programs that I wrote during my Ph.D. for fluorophore bleaching s
 ## **Example of simultaneous dual-color single-molecule imaging using mEGFP & mGold** ##
 
 ![79](https://github.com/antaramukhopadhyay/Single-molecule-analysis/assets/160405848/0087a725-a183-4d4f-850d-d9aea08a100c)
+
+## **Example of bleaching step counting of fluorophores using cutoff step ratio (simultaneous dual-color single-molecule imaging using mEGFP & mGold)** ##
+
+![bleaching step counting gfpyfp](https://github.com/antaramukhopadhyay/Single-molecule-analysis/assets/160405848/29e4aadc-e05b-4f94-9210-06644edf054d)
+
+
